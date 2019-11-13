@@ -5,7 +5,7 @@ The Ruby on Rails Starter demonstrates a simple, reusable Ruby web application b
 ## Run the app locally
 
 1. [Install Ruby][]
-2. Download and extract the starter code from the Bluemix UI
+2. Download or clone the repository
 3. cd into the app directory
 4. Run `gem install bundler` to install bundler
 5. Run `bundler install` to install app dependencies
